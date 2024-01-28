@@ -6,7 +6,11 @@ source: https://deliciousbrains.com/ssl-certificate-authority-for-local-https-de
 ### Introduction
 
 These are scripts to create self-signed certificates for my Docker hosted Gitlab instance on 
-my little home-server called `isengrad`.
+my little home-server called `isengard`.
+
+With a little change you could adjust those scripts to make certificates for your own use.
+Certificates have been tested with Gitlab server and the following clients: Gitkraken, Firefox, Chrome
+on Windows, macOS and Ubuntu Linux.
 
 ### How does it work?
 There are 2 certificates:
