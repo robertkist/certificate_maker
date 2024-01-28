@@ -93,7 +93,7 @@ Installing the certificate:
 
 Verification:
 * (Re)start Edge
-* Go to the website (using https://) - you should not get any errors. If you get errors, try restarting your Mac before troubleshooting.
+* Go to the website (using https://) - you should not get any errors. If you get errors, try restarting your PC before troubleshooting.
 
 ### Installing Signing Certificate on UBUNTU Client
 Installing the certificate:
