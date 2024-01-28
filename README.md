@@ -3,6 +3,11 @@ Creates Certificates for Self Hosting
 
 source: https://deliciousbrains.com/ssl-certificate-authority-for-local-https-development/
 
+### Introduction
+
+These are scripts to create self-signed certificates for my Docker hosted Gitlab instance on 
+my little home-server called `isengrad`.
+
 ### How does it work?
 There are 2 certificates:
 1. A certificate that is sent by the server when a client connects to it (aka server certificate).
